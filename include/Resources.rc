@@ -1,0 +1,10 @@
+#include "../include/Resources.h"
+
+1	ICON	"..\\resources\\cinder_app_icon.ico"
+MAIN_VERT
+MAIN_FRAG
+BACKGROUND_VERT
+BACKGROUND_FRAG
+EMPTY_VERT
+BLUR_FRAG
+INV_ALPHA_FRAG
